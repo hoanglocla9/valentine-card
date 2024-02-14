@@ -55,7 +55,7 @@ export default function SecondQuestion() {
         <>
           <img src="https://gifdb.com/images/high/animated-bear-kiss-enngnq0gm2r405bt.webp" />
           <div className="text-[2rem] font-bold text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
-            <span>Ok yay!!!</span>
+            <span>Ok yay!!! Đố Tú biết ý nghĩa của domain trang này đó</span>
           </div>
         </>
       ) : (
