@@ -62,7 +62,7 @@ export default function SecondQuestion() {
         <>
           <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
           <h1 className="text-[2rem] text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
-            Tú cho Lộc cơ hội để nói &quot;晚安&quot; mỗi ngày nha 😁
+            Tú để Lộc nói &quot;晚安&quot; mỗi ngày nha 😁
           </h1>
           <div className="text-center space-y-5">
             <button
