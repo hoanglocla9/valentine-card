@@ -3,9 +3,9 @@ import Link from 'next/link';
 
 export default function FirstQuestion() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-rose-200 p-60">
+    <div className="flex flex-col items-center justify-center h-screen bg-rose-200 xl:p-60 scroll-smooth overflow-auto">
       <>
-        <div className="text-[0.5rem] mb-20 text-center leading-tight md:text-4xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
+        <div className="md:text-[1rem] lg:text-[2rem] mb-20 text-center leading-tight md:text-4xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
           <span>Hi Tú, 
             <br />
             Chúc mừng kỷ niệm một tháng kể từ ngày chúng mình quen nhau nha. Vậy là … 1 tháng nói chuyện với nhau rồi á, Lộc không biết nên dùng từ “đã” hay “mới” nữa. 
